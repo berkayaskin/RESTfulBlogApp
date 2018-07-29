@@ -1,0 +1,19 @@
+COMMIT NOTES DAILY
+
+FIRST DAY - FIRST COMMIT
+Date: 29 July 2018
+SECTION 29 - RESTFUL Routing
+
+First Commit
+
+#Blog Index
+* Setup the Blog App
+* Create the Blog model
+* Add INDEX route and template
+
+Second Commit
+
+#Basic Layout
+* Add Header and Footer Partials
+* Include Semantic UI
+* Add Navbar
