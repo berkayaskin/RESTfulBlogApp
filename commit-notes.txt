@@ -40,3 +40,16 @@ Part 5
 *Add Edit route and form
 *Add Update route and form
 *Add method-override
+
+Part 6
+
+#Delete
+*Add Destroy route
+*Add Edit and Destroy links
+
+Part 7
+
+#Final Updates
+*Sanitize blog body*Style Index
+*Update REST Table
+
