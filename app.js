@@ -4,6 +4,8 @@ expressSanitizer= require("express-sanitizer"),
 mongoose        = require("mongoose"),
 express         = require("express"),
 app             = express();
+
+//test
     
 //APP CONFIG    
 mongoose.connect('mongodb://localhost:27017/restful_blog_app', { useNewUrlParser: true }); 
